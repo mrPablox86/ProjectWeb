@@ -14,5 +14,15 @@ namespace Hello_world_
             crn,
             rub
         }
+
+        public class Bazar
+        {
+            string foreign = "qwerty";
+
+            public Bazar()
+            {
+                foreign = "daf";
+            }
+        }
     }
 }

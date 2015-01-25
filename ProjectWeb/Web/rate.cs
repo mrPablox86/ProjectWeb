@@ -9,5 +9,7 @@ namespace Web
     public class rate
     {
         List<string> q = new List<string> { "about", "sorted" };
+        int x = 86;
+        string str = "compareTo";
     }
 }
