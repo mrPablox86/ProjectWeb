@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Web
 {
-    public class Class1
+    public class rate
     {
+        List<string> q = new List<string> { "about", "sorted" };
     }
 }
