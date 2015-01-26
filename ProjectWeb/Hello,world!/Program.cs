@@ -12,6 +12,10 @@ namespace Hello_world_
         {
             Console.WriteLine("hello, world!");
             Console.WriteLine("hi dear friend. How are you?");
+
+            int x = 0;
+            Console.WriteLine("{0}", x);
+
             Console.ReadKey();
         }
     }
